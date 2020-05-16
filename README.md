@@ -1,7 +1,8 @@
 # JBDL-4
 
-====================================== Agenda for the next week (2nd Week):
-Intro to Maven
+====================================== 
+
+# Agenda for the next week (2nd Week):
 Intro to Spring / Spring Boot
 Creating a Web Services (Web App) using Spring Boot 
 Creating REST/RESTful APIs (like /search API of Google)
@@ -33,15 +34,15 @@ For JSON: https://www.youtube.com/watch?v=iiADhChRriM
 
 Adding few more links ( for core Java only): https://www.youtube.com/watch?v=pTAda7qU4LY&list=PL59LTecnGM1Mg6I4i_KbS0w5bPcDjl7oz&index=9 https://www.youtube.com/watch?v=70qy6_gw1Hc&list=PL59LTecnGM1Mg6I4i_KbS0w5bPcDjl7oz&index=13 https://www.youtube.com/watch?v=6q98thyEX4Q&list=PLonJJ3BVjZW6_q8gh7XoLUIhRIyBcYJLP https://www.youtube.com/watch?v=7GwptabrYyk
 
-=============================================== The useful links
+# The useful links
 
 https://api.github.com/search/users?q=shashi
 
 https://developer.github.com/v3/
 
 https://start.spring.io/
-
-============================= Useful YouTube Playlists:
+ 
+# Useful YouTube Playlists:
 
 https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
 
